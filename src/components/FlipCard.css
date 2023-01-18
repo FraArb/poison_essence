@@ -33,6 +33,7 @@
   .flip-card-front {
     background-color: transparent;
     color: black;
+    pointer-events: none;
   }
   
   /* Style the back side */
